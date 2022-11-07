@@ -1,3 +1,5 @@
+Isn't final.
+
 The stydy shows characteristics of sailboat type vessels, posted on a vessel advertisement portal in order to help buyers to get the perfect boat by undestanding the market by its data. 
 
 Objective: 
